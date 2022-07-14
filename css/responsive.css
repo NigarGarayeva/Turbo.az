@@ -1,0 +1,182 @@
+@media screen and (max-width: 769px) {
+
+    /* nav 1 */
+    .container {
+        width: unset;
+    }
+
+    .nav1 {
+        justify-content: center;
+    }
+
+    .nav1-2 {
+        display: none;
+    }
+
+    .nav2-links {
+        display: none;
+    }
+
+    .nav2 {
+        justify-content: center;
+    }
+
+    .nav2-button button {
+        padding: 9px 10px;
+        font-size: 13px;
+    }
+
+    .nav3-1 {
+        display: inherit;
+    }
+
+    .input-mark_mod {
+        display: inherit;
+        text-align: center;
+    }
+
+    .input-mark input,
+    .input-mod input {
+        margin: unset;
+        margin-bottom: 10px;
+    }
+
+    .input-type_city {
+        display: inherit;
+        text-align: center;
+    }
+
+    .btn-type {
+        justify-content: center;
+    }
+
+    .input-city input {
+        margin: unset;
+        margin-top: 10px;
+    }
+
+    .input-price_btns {
+        flex-direction: column;
+    }
+
+    .nav3-2 {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .year {
+        display: flex;
+    }
+
+    .price {
+        display: flex;
+    }
+
+    .price-val {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .input-ban_years {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .btn-valyuta2 {
+        justify-content: center;
+        margin: 10px 0;
+    }
+
+    .input-ban select {
+        margin: 0;
+    }
+
+    .input-ban select,
+    .input-city input,
+    .input-mod input,
+    .input-mark input {
+        width: 150px;
+    }
+
+    .btn-show {
+        flex-direction: column;
+    }
+
+    .btn-show button {
+        width: 150px;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+
+    .cards {
+        width: 83%;
+        margin: 0 auto;
+    }
+
+    .f-1 {
+        display: none;
+    }
+
+    .f-sag {
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+    .f-1,
+    .f-2,
+    .f-3,
+    .f-4 {
+        margin: 0 auto;
+        margin-bottom: 5px;
+    }
+
+    .mid-content ul {
+        flex-direction: column;
+    }
+
+    .mid-content ul li {
+        margin-bottom: 9px;
+
+    }
+
+    .b-all p {
+        width: 80%;
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 15px;
+    }
+
+    .b-all {
+        flex-direction: column;
+    }
+
+    .b-2-3 {
+        flex-direction: column;
+    }
+
+    .b-3 {
+        display: none;
+    }
+
+    .number {
+        display: none;
+    }
+
+    .mail {
+        display: none;
+    }
+
+    .f-2 ul li a {
+        padding: unset;
+        margin: 0 10px;
+    }
+
+    .f-3 li {
+        margin: 0 10px;
+    }
+
+    .f {
+        align-items: center;
+    }
+}
